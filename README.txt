@@ -1,24 +1,27 @@
 # Comparador de Zonas de Praticagem (ZP)
 
-## Executar localmente
-1. Instale Python 3.10 ou superior.
-2. Descompacte o ZIP.
-3. No terminal, dentro da pasta do projeto:
-   ```bash
-   pip install -r requirements.txt
-   streamlit run app.py
-   ```
+## O que foi aplicado do script MATLAB
+- As 20 alternativas e seus IDs reais.
+- Merge sort adaptativo: a aplicação só pergunta quando não conhece a relação.
+- Reutilização dos julgamentos diretos.
+- Inferência por transitividade entre classes de empate.
+- Opção de empate.
+- Salvamento automático do histórico em `sessao_zp.json`.
+- Retomada da sessão ao abrir novamente a aplicação no mesmo diretório.
+- Exportação de ranking e julgamentos em CSV.
+- Ação para desfazer o último julgamento e reiniciar o ranking.
 
-## Conteúdo
-- `app.py`: aplicação Streamlit.
-- `indicadores_cidades.csv`: modelo para completar IDHM, custo de vida e aeroportos.
-- `requirements.txt`: dependências.
+## Executar
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-## Importante
-Os dados de lotação foram transcritos da imagem enviada pelo usuário e os valores anuais
-de fainas foram transcritos visualmente da imagem histórica. Revise com a fonte original.
-As séries de Sergipe e Ilhéus estão separadas para preservar a forma como aparecem no
-gráfico histórico; não devem ser somadas automaticamente a outras séries sem validar
-a abrangência por ano.
-IDHM, custo de vida e aeroportos estão em branco intencionalmente até serem preenchidos
-com fontes verificáveis.
+## Observações
+A lotação foi transcrita da tabela fornecida. As fainas foram transcritas visualmente
+do gráfico de 2017 a 2025; confirme com a planilha original antes de usar para decisão.
+IDHM, custo de vida e dados de aeroportos ainda não foram preenchidos com valores,
+para evitar apresentar dados não verificados como fatos.
+O estado é salvo em arquivo local `sessao_zp.json`. Em hospedagens efêmeras, esse arquivo
+pode não persistir após reinicializações; para uso multiusuário ou persistência em nuvem,
+será necessário configurar armazenamento adequado.
