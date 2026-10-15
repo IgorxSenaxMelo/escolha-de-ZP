@@ -1,0 +1,21 @@
+﻿ZP,Municipio_referencia,Municipios,Lat,Lon,Aeroporto,IATA,Aero_lat,Aero_lon,Voos_comerciais,Observacao
+ZP01,Macapá,Macapá,0.0349,-51.0664,Macapá (Alberto Alcolumbre),MCP,0.0507,-51.0722,sim,"Fazendinha fica na área de Macapá; a ZP também abrange trecho amazônico até Itacoatiara (AM), não representado aqui"
+ZP02,Manaus,Manaus,-3.119,-60.0217,Manaus (Eduardo Gomes),MAO,-3.0386,-60.0497,sim,Manaus escolhida como município de referência por ser o maior centro da ZP (Itacoatiara–Tabatinga); Tabatinga e Itacoatiara não incluídos. Acesso predominantemente fluvial
+ZP03,Belém,Belém,-1.4558,-48.5044,Belém (Val-de-Cans),BEL,-1.3792,-48.4763,sim,Vila do Conde fica em Barcarena; indicadores de Belém não representam Barcarena
+ZP04,São Luís,São Luís,-2.5307,-44.3068,São Luís (Marechal Cunha Machado),SLZ,-2.5854,-44.2341,sim,"Itaqui, Alumar e Ponta da Madeira ficam na ilha/baía de São Marcos"
+ZP05,Fortaleza,Fortaleza,-3.7319,-38.5267,Fortaleza (Pinto Martins),FOR,-3.7763,-38.5326,sim,Pecém (São Gonçalo do Amarante) não incluído nos indicadores
+ZP06,Areia Branca,Areia Branca,-4.9556,-37.1394,Mossoró (Dix-Sept Rosado),MVF,-5.2019,-37.3643,não verificado,Existência de voos comerciais regulares não verificada; aeroporto escolhido apenas por proximidade
+ZP07,Natal,Natal,-5.7945,-35.211,Natal (São Gonçalo do Amarante),NAT,-5.7681,-35.3764,sim,Aeroporto fica em outro município; trajeto rodoviário não coletado
+ZP08,Cabedelo,Cabedelo,-6.9811,-34.8339,João Pessoa (Castro Pinto),JPA,-7.1458,-34.9486,sim,
+ZP09,Recife,Recife,-8.0476,-34.877,Recife (Guararapes),REC,-8.1265,-34.9236,sim,Suape (Ipojuca) fica a dezenas de km de Recife; indicadores de Ipojuca não incluídos
+ZP10,Maceió,Maceió,-9.6658,-35.7353,Maceió (Zumbi dos Palmares),MCZ,-9.5108,-35.7917,sim,Parte sergipana da ZP (TMIB) não representada
+ZP12,Salvador,Salvador,-12.9714,-38.5014,Salvador (Luís Eduardo Magalhães),SSA,-12.9086,-38.3225,sim,
+ZP14,Vitória,Vitória,-20.3155,-40.3128,Vitória (Eurico de Aguiar Salles),VIX,-20.2581,-40.2864,sim,"Tubarão (Vitória/Serra) e Ubu (Anchieta) tratados à parte; Ubu fica ao sul, mais distante"
+ZP15,Rio de Janeiro,Rio de Janeiro;Niterói,-22.9068,-43.1729,Rio de Janeiro (Santos Dumont),SDU,-22.9105,-43.1631,sim,"Galeão (GIG, voos internacionais) também atende a região; Sepetiba e Angra não representados"
+ZP16,Santos,Santos;São Sebastião,-23.9608,-46.3336,São Paulo (Congonhas),CGH,-23.6261,-46.6564,sim,"Santos não tem aeroporto comercial regular (não verificado); distância considera Congonhas, mas Guarulhos e Viracopos concentram voos longos"
+ZP17,Paranaguá,Paranaguá,-25.5163,-48.5225,Curitiba (Afonso Pena),CWB,-25.5285,-49.1758,sim,Antonina não incluída
+ZP18,São Francisco do Sul,São Francisco do Sul,-26.2435,-48.6385,Joinville (Lauro Carneiro de Loyola),JOI,-26.2245,-48.7974,sim,
+ZP19,Rio Grande,Rio Grande,-32.035,-52.0986,Rio Grande (Gustavo Cramer),RIG,-32.0827,-52.1672,não verificado,Existência de voos comerciais regulares não verificada
+ZP20,,,,,,,,,,Zona multimunicipal (Lagoa dos Patos e terminais interiores): sem município de referência definido
+ZP21,Itajaí,Itajaí;Navegantes,-26.9078,-48.6619,Navegantes (Ministro Victor Konder),NVT,-26.88,-48.6514,sim,
+ZP22,Imbituba,Imbituba,-28.24,-48.6703,Florianópolis (Hercílio Luz),FLN,-27.6703,-48.5525,sim,Aeroportos regionais mais próximos (ex.: sul catarinense) não avaliados

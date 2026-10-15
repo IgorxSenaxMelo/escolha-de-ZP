@@ -1,21 +1,21 @@
-﻿ZP,Abrangencia,Lotacao_praticos,Grupo_contextual,IDHM,Ano_IDHM,Renda_per_capita,PIB_per_capita,Populacao,Custo_vida,Seguranca_publica,Saude,Educacao,Mobilidade,Aeroporto_comercial,Distancia_linha_reta_km,Distancia_rodoviaria_km,Tempo_rodoviario_min,Conectividade_aerea,Caracteristicas_operacionais,Fonte_dados,URL_fonte,Ano_referencia,Observacoes
-ZP14,"Vitória, Tubarão e Ubu–ES",28,Frequentemente preferida (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP16,Santos e São Sebastião–SP,58,Frequentemente preferida (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP05,Fortaleza e Pecém–CE,13,Frequentemente preferida (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP10,"Maceió, Terminal Químico e Sergipe/TMIB–AL/SE",5,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP15,"Rio, Niterói, Sepetiba e Angra–RJ",65,Frequentemente preferida (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP07,Natal–RN,4,Percebida como menos desejável por alguns usuários (informação preliminar),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP04,"Itaqui, Alumar e Ponta da Madeira–MA",33,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP17,Paranaguá e Antonina–PR,30,Frequentemente preferida (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP09,Recife e Suape–PE,14,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP19,Rio Grande–RS,22,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP08,Cabedelo–PB,4,Percebida como menos desejável por alguns usuários (informação preliminar),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP22,Imbituba–SC,5,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP18,São Francisco do Sul–SC,17,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP21,Itajaí e Navegantes–SC,13,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP06,Areia Branca–RN,3,Percebida como menos desejável por alguns usuários (informação preliminar),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP12,Salvador e Baía de Todos os Santos–BA,27,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP20,Lagoa dos Patos e terminais interiores–RS,5,,,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP03,Belém e Vila do Conde–PA,36,Grupo de interesse militar (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP01,"Fazendinha–Itacoatiara, AP/AM",160,Grupo de interesse militar (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
-ZP02,Itacoatiara–Tabatinga–AM,35,Grupo de interesse militar (informação preliminar do usuário),,,,,,,,,,,,,,,,,,,,Indicadores não preenchidos: exigem levantamento verificável por município/região. Lotação conforme tabela fornecida; confirmar data e fonte.
+﻿ZP,Abrangencia,UF,Lotacao_praticos,Serie_fainas,Obs_lotacao
+ZP01,"Fazendinha–Itacoatiara, AP/AM",AP/AM,160,ZP01,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP02,Itacoatiara–Tabatinga–AM,AM,35,ZP02,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP03,Belém e Vila do Conde–PA,PA,36,ZP03,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP04,"Itaqui, Alumar e Ponta da Madeira–MA",MA,33,ZP04,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP05,Fortaleza e Pecém–CE,CE,13,ZP05,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP06,Areia Branca–RN,RN,3,ZP06,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP07,Natal–RN,RN,4,ZP07,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP08,Cabedelo–PB,PB,4,ZP08,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP09,Recife e Suape–PE,PE,14,ZP09,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP10,"Maceió, Terminal Químico e Sergipe/TMIB–AL/SE",AL/SE,5,ZP10,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP12,Salvador e Baía de Todos os Santos–BA,BA,27,ZP12,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP14,"Vitória, Tubarão e Ubu–ES",ES,28,ZP14,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP15,"Rio, Niterói, Sepetiba e Angra–RJ",RJ,65,ZP15,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP16,Santos e São Sebastião–SP,SP,58,ZP16,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP17,Paranaguá e Antonina–PR,PR,30,ZP17,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP18,São Francisco do Sul–SC,SC,17,ZP18,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP19,Rio Grande–RS,RS,22,ZP19,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP20,Lagoa dos Patos e terminais interiores–RS,RS,5,ZP20,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP21,Itajaí e Navegantes–SC,SC,13,ZP21,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas
+ZP22,Imbituba–SC,SC,5,ZP22,Transcrita da tabela fornecida pelo usuário na sessão anterior; data e fonte oficial não informadas

@@ -1,0 +1,30 @@
+{
+  "descricao": "Informações contextuais e ordem inicial. NÃO são pontos, pesos nem posições fixas do ranking.",
+  "preferencia_historica": {
+    "alta": [
+      "ZP14",
+      "ZP15",
+      "ZP16",
+      "ZP05",
+      "ZP17"
+    ],
+    "baixa": [
+      "ZP06",
+      "ZP07",
+      "ZP08"
+    ],
+    "observacao": "Preferência subjetiva informada pelo criador do sistema; não é dado objetivo."
+  },
+  "grupos_contextuais": {
+    "interesse_militar": {
+      "zps": [
+        "ZP01",
+        "ZP02",
+        "ZP03"
+      ],
+      "observacao": "Grupo de interesse associado a características militares; não tratado como vantagem ou desvantagem."
+    }
+  },
+  "ordem_inicial": "prior",
+  "mostrar_rotulos_na_comparacao": false
+}

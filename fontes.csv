@@ -1,7 +1,12 @@
-﻿Indicador,Instituicao,URL,Uso_previsto,Status
-IDHM,Atlas do Desenvolvimento Humano no Brasil / PNUD / Ipea / Fundação João Pinheiro,https://www.atlasbrasil.org.br/,IDHM municipal e ano de referência,Fonte oficial indicada; valores por município ainda não coletados
-"População, PIB e renda",IBGE,https://www.ibge.gov.br/,"Indicadores municipais, sempre com ano e unidade",Fonte oficial indicada; valores ainda não coletados
-Fainas / praticagem,Diretoria de Portos e Costas / Marinha do Brasil,https://www.marinha.mil.br/dpc/,Validar séries de fainas e abrangência das ZPs,Série atual transcrita de imagem/código; validação oficial pendente
-Movimentação portuária,ANTAQ,https://www.gov.br/antaq/pt-br,Contextualização de tráfego e movimentação portuária,Levantamento por porto/ZP pendente
-Aeroportos e conectividade,ANAC,https://www.gov.br/anac/pt-br,Infraestrutura e dados de aviação civil,Levantamento por município pendente
-Segurança pública,Secretarias estaduais / Ministério da Justiça,https://www.gov.br/mj/pt-br,Indicadores comparáveis por estado/município,Não preenchido; exige escolha de indicador e ano
+﻿Fonte_id,Descricao,URL,Indicadores,Natureza,Status
+S1,PNUD Brasil – IDHM Municípios 2010 (Atlas do Desenvolvimento Humano no Brasil 2013),https://www.undp.org/pt/brazil/idhm-municipios-2010,IDHM,Instituição oficial (republicação da tabela do Atlas),Consultada em 2026-10-15
+S2,CFA – Ranking IDHM por UF (compilação dos dados do Atlas/IBGE 2010),https://cfa.org.br/wp-content/uploads/2015/03/Ranking-IDHM-por-UF.pdf,"IDHM (Macapá, Manaus, Maceió)",Compilação secundária,Consultada em 2026-10-15
+S3,Censo Demográfico 2022 (IBGE) – valores citados pela imprensa (CNN Brasil; O Povo),https://www.cnnbrasil.com.br/nacional/esta-e-a-maior-cidade-do-brasil-que-nao-e-uma-capital/,População (5 municípios),Imprensa reproduzindo dado do IBGE; conferir no SIDRA,Consultada em 2026-10-15
+S4,Tabela de lotação de práticos fornecida pelo usuário,,Lotação de práticos,Fornecida pelo usuário,Data e fonte oficial não informadas
+S5,Gráfico/código de fainas 2017–2025 fornecido pelo usuário,,Fainas por ZP,Fornecida pelo usuário (transcrição),Imagem original não recebida nesta sessão; não revalidada
+S6,Cálculo próprio: distância em linha reta (fórmula de haversine) entre coordenadas aproximadas do centro urbano e do aeroporto,,Distância até o aeroporto,Estimativa,"Coordenadas aproximadas, não verificadas em fonte oficial"
+R1,Diretoria de Portos e Costas / Marinha do Brasil,https://www.marinha.mil.br/dpc/,Validação de fainas e lotação,Fonte recomendada,Não consultada
+R2,ANTAQ,https://www.gov.br/antaq/pt-br,Movimentação portuária,Fonte recomendada,Não consultada
+R3,ANAC,https://www.gov.br/anac/pt-br,Aeroportos e voos regulares,Fonte recomendada,Não consultada
+R4,Atlas do Desenvolvimento Humano no Brasil (IDHM 2021),https://www.atlasbrasil.org.br/,IDHM mais recente,Fonte recomendada,Não consultada
+R5,IBGE / SIDRA,https://sidra.ibge.gov.br/,"População, PIB, renda",Fonte recomendada,Não consultada
